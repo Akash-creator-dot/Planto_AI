@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528516459469",
+    "project_id": "planto-3ac9c",
+    "storage_bucket": "planto-3ac9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528516459469:android:4aab6dca880b9cf5d9b284",
+        "android_client_info": {
+          "package_name": "com.techgiants.planto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE8lRGzNZBygVr193I7-AcxAqvyzJkhAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
